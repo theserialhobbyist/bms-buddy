@@ -1,6 +1,6 @@
 # BMS Buddy
 
-A cross-platform Battery Management System monitor for Bluetooth-enabled LiFePO4 batteries.
+A cross-platform Battery Management System monitor for Dumfume Bluetooth-enabled LiFePO4 batteries.
 
 ![BMS Buddy](Screenshots/Screenshot_20260110-143320.png)
 
@@ -23,8 +23,7 @@ A cross-platform Battery Management System monitor for Bluetooth-enabled LiFePO4
 ## Downloads
 
 ### Android
-- [bms_buddey_v0.5.apk](Android/bms_buddey_v0.5.apk) - Direct install APK
-- [bms_buddy_v0.5.aab](Android/bms_buddy_v0.5.aab) - Android App Bundle
+- [bms_buddy_v0.6.apk](Android/bms_buddy_v0.6.apk) - Direct install APK
 
 ### Windows
 - [Windows/](Windows/) - Windows executable and dependencies
@@ -42,7 +41,11 @@ A cross-platform Battery Management System monitor for Bluetooth-enabled LiFePO4
 
 ## Compatibility
 
-Works with Bluetooth-enabled BMS units that use the standard Modbus protocol, including many Chinese LiFePO4 BMS brands (JBD, Daly, JIKONG, etc.).
+May work with others, but built for and tested on a Dumfume LiFePO4 battery.
+
+If you aren't sure if your battery has the Bluetooth BMS, use your phone to scan for Bluetooth devices.
+
+If you see a device that starts with "BMS-" then you should be good to go!
 
 ## Permissions Required
 
