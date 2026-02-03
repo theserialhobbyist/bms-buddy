@@ -23,7 +23,7 @@ A cross-platform Battery Management System monitor for Dumfume Bluetooth-enabled
 ## Downloads
 
 ### Android
-- [bms_buddy_v0.6.apk](Android/bms_buddy_v0.6.apk) - Direct install APK
+- [bms_buddy_v1.0.apk](Android/bms_buddy_v1.0.apk) - Direct install APK
 
 ### Windows
 - [Windows/](Windows/) - Windows executable and dependencies
